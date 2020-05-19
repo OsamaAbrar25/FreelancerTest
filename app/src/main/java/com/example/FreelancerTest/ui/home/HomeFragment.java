@@ -1,4 +1,4 @@
-package com.example.lllll.ui.home;
+package com.example.FreelancerTest.ui.home;
 
 import android.content.Context;
 import android.content.SharedPreferences;
@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.LinearLayout;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import com.example.lllll.R;
+import com.example.FreelancerTest.R;
 import java.util.ArrayList;
 
 public class HomeFragment extends Fragment {
